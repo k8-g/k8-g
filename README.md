@@ -3,10 +3,7 @@ Kate G
 
 Purple-haired deaf goth learning how to code
 
-<li>Gamer & Animal lover </li><br>
-<li>Have dabbled in Html & CSS in the past</li>
-
-
+:space_invader: Gamer & Animal lover <br>
 :computer: Currently studying Diploma of IT (Full Stack)
 To be completed Dec 2024~
 
