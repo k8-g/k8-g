@@ -1,7 +1,7 @@
 # k8-g
 Kate G
 
-:purple_heart: Purple-haired deaf goth learning how to code
+:purple_heart: Purple-haired deaf goth learning how to code<br>
 :space_invader: Gamer & Animal lover <br>
 :computer: Currently studying Diploma of IT (Full Stack)<br>
 To be completed Dec 2024~
